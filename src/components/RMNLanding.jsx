@@ -59,7 +59,7 @@ const RMNLanding = () => {
               </button>
               <div className="flex items-center gap-4 px-6 py-4 bg-white/5 rounded-xl border border-white/10">
                 <span className="text-brand-silver">⚡</span>
-                <span className="text-sm font-mono">Response time: < 2h</span>
+                <span className="text-sm font-mono">Response time: &lt; 2h</span>
               </div>
             </div>
           </motion.div>
