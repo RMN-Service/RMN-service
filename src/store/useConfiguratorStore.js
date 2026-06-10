@@ -1,5 +1,5 @@
 import { create } from 'zustand';
-import compatibilityEngine from '../../libs/compatibility-engine';
+// import compatibilityEngine from '../../libs/compatibility-engine';
 
 /**
  * Global Store для конфигуратора ПК
